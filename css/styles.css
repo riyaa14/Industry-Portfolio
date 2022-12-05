@@ -1,0 +1,229 @@
+/* Intro */
+
+/* .home-page{
+    padding: 20% 10%;
+   /* background-color: #2B3E40; */
+/*} */
+
+html{
+    scroll-behavior: smooth;
+}
+
+.intro{
+    background-color: #2B3E40;
+}
+
+.name{
+    background-color: aliceblue;
+    padding: 5% 2%;
+    margin: 30% 10%;
+}
+
+.intro h1{
+    padding-top: 20px; 
+    padding-left: 10%;
+    color: #2B3E40;
+    font-size: 3rem;
+}
+ 
+.intro p{
+    padding-top: 10px;
+    padding-left: 10%;
+    color: #2B3E40;
+    font-size: 1.5rem;
+}
+
+.home-page img{
+    height: 780px;
+    width: 750px;
+    padding-bottom: 0;
+}
+
+.custom-shape-divider-top-1661614844 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1661614844 svg {
+    position: relative;
+    display: block;
+    width: calc(135% + 1.3px);
+    height: 204px;
+}
+
+.custom-shape-divider-top-1661614844 .shape-fill {
+    fill: #2B3E40;
+}
+
+/* ABOUT US */
+
+#about-us{
+    position: relative;
+    padding-top: 50px;
+}
+
+#about-us h1{
+    padding-top: 10%;
+    padding-left: 10%;
+    font-size: 4rem;
+}
+
+.abt-para{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10%;
+}
+
+.typing-words{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.typewrite{
+    color:grey;
+    text-decoration:none;
+}
+
+.products{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.abt-img{
+    padding-top: 0;
+    padding-left: 20%;
+    height: 300px;
+}
+
+.numbers{
+    padding: 2% 10%;
+}
+
+
+
+/* Our work */
+
+.workslideshow{
+    padding: 4rem 6rem 2rem 6rem;
+}
+
+.work{
+    background-color: #2B3E40;
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-item{
+    padding: 5% 30% 10% 30%;
+
+}
+
+.slideImg{
+    height: 100%;
+    width: 100%;
+    padding: 2% 5% 2% 10%;
+}
+
+.work h1{
+    color: azure;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 4rem;
+}
+
+/* ******** ADJECTIVES ****** */
+
+.promise{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    font-size: 4rem;
+}
+
+.adj{
+    padding-right: 5%;
+    padding-bottom: 7%;
+    padding-left: 8%;
+}
+
+.adj .box{
+    padding: absolute;
+	padding: 10%;
+    padding-top: 2%;
+    padding-bottom: 0;
+	text-align: center;
+    padding-bottom: 7%;
+}
+
+.adj i{
+    padding: 0 2rem 2rem;
+}
+
+/* ******* OUR CLIENTS ******** */
+
+.clients{
+    background-color: #2B3E40;
+    color: azure;
+}
+
+.clients h1{
+    padding-top: 3%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    font-size: 3rem;
+}
+
+.clients img{
+    padding: absolute;
+	padding: 10%;
+    padding-top: 2%;
+	text-align: center;
+    height: 320px;
+  padding-bottom: 7%;
+}
+
+/* ****** FOUNDER ********** */
+
+.Founder h1{
+    padding-top: 3%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    font-size: 3rem;
+}
+
+.Founder p{
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.Founder img{
+    padding-top: 0;
+    padding-left: 30%;
+    padding-right: 0;
+    height: 250px;
+    padding-bottom: 10%;
+}
+
+/* ********* CONTACT INFO ************ */
+
+.Contact h1{
+    padding-top: 5%;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    font-size: 3rem;
+}
+
+.contact-info{
+    padding: 2% 10%;
+}
+
+.Contact{
+    background-color: #2B3E40;
+    color: azure;
+}
+
